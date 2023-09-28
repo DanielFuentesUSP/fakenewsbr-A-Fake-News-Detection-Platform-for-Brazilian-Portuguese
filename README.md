@@ -1,0 +1,1 @@
+# fakenewsbr-A-Fake-News-Detection-Platform-for-Brazilian-Portuguese
